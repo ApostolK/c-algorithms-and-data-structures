@@ -1,0 +1,6 @@
+1001;Laptop;99999;A001;nem
+1002;Monitor;74999;A001;igen
+1003;Billentyuzet;15999;B002;nem
+1004;Eger;8999;B002;nem
+1005;Pohar;2499;A001;igen
+1006;Lampa;12999;C003;igen
